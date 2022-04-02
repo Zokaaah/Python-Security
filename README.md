@@ -1,4 +1,5 @@
-#Python Security:cook
+#Python Security
 
-Olá Bem vindos aos meus codigos de python:wave
+Olá Bem vindos aos meus codigos de python
+
 
